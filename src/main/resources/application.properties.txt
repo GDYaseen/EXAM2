@@ -1,3 +1,6 @@
+# REMOVE .txt FROM FILE NAME
+
+
 spring.application.name=demo3
 spring.security.oauth2.client.registration.google.client-id=291912257519-4fup6ebg028rcu0oaa09tglac6ielqbh.apps.googleusercontent.com
 spring.security.oauth2.client.registration.google.client-secret=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
